@@ -40,6 +40,14 @@ class SectionRow(BaseModel):
         if not v == None:
           raise ValueError("section must be a single lowercase letter")
       return v
+    def validate_number(cls, v: str) -> str:
+      if not re.fullmatch(r"[1-9]{3}|[L]{1}", v) | not re.fullmatch(r"[1-9]{3}", v):
+        raise ValueError("class number must be 3 numbers and then nothing or the letter L")  
+      return v
+    def validate_title(cls, v: str) -> str:
+      if istitle(v)==False:
+        raise ValueError("section must be a single lowercase letter")
+      return v
 
     def validate_title(cls, v: str) -> str:
        """Title must be in title case"""
