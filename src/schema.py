@@ -17,6 +17,14 @@ import re
 
 class SectionRow(BaseModel):
     program: str
+    number: str
+    section: Optional[str] = None
+    title: str
+    credits: float
+    days: Optional[str] = None
+    times: Optional[str] = None
+    room: Optional[str] = None
+    faculty: str
     # Add your other fields here (see README)
     tags: Optional[str] = None
 
@@ -27,5 +35,11 @@ class SectionRow(BaseModel):
         if not re.fullmatch(r"[A-Z]{3}", v):
             raise ValueError("program must be three uppercase letters")
         return v
+    def validate_section(cls, v: str) -> str:
+      if not re.fullmatch(r"[a-z]{1}", v):
+        if not v == None:
+          raise ValueError("section must be a single lowercase letter")
+      return v
+
 
     # Add other validators here as needed
