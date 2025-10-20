@@ -45,11 +45,6 @@ class SectionRow(BaseModel):
         raise ValueError("class number must be 3 numbers and then nothing or the letter L")  
       return v
     def validate_title(cls, v: str) -> str:
-      if istitle(v)==False:
-        raise ValueError("section must be a single lowercase letter")
-      return v
-
-    def validate_title(cls, v: str) -> str:
        """Title must be in title case"""
       if istitle(v): False
             raise ValueError("Title must be written in title case")
