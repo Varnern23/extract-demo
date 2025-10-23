@@ -25,11 +25,21 @@ import csv
 from pydantic import ValidationError
 from schema import SectionRow
 
-
+MODEL = "gemma3:4b"
+def query_ollama(prompt: str, model: str) -> str:
+    """Call Ollama with the user prompt and return the reply text."""
+    try:
+        response = ollama.chat(model=model,
+                               messages= [{"role": "user",
+                                           "content": prompt}],
+                                           stream=True)
+        return response["message"]["content"]
+    except ollama.ResponseError as e:
+        print("Error: ", e.error)
 def extract_structured_record(line: str) -> SectionRow:
     """
     Use an LLM to extract structured data for one course listing.
-
+    
     TODO:
       - Write a prompt that tells the model what to extract.
       - Call your chosen Ollama model (e.g., gemma3:4b, granite3:2b, etc.).
@@ -37,6 +47,8 @@ def extract_structured_record(line: str) -> SectionRow:
       - Parse the model's JSON response.
       - Validate the result with SectionRow(**data).
     """
+    prompt = "return the following line in the form of a working JSON set up with the different categories: program (should be 3 capital letters), number(should be 3 numbers with the possibilty of an L at the end), section(just a letter), title(look for a string in title case), credits(look for a float), days(a list that may look like -m-w-f-), times, room(4 letters followed by 3 numbers), faculty(someones first inital and last name), tags(the other thing usually a capital letter) be aware these will not always be in order in the following line :" + line 
+    query_ollama(prompt, MODEL)
 
     # The placeholder below produces an "empty" valid record.
     # It lets you test the pipeline without errors,
