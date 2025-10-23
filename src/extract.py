@@ -24,15 +24,16 @@ and scoring work before adding your model logic.
 import csv
 from pydantic import ValidationError
 from schema import SectionRow
+import ollama
 
-MODEL = "gemma3:4b"
+MODEL = "gemma3:12b"
 def query_ollama(prompt: str, model: str) -> str:
     """Call Ollama with the user prompt and return the reply text."""
     try:
         response = ollama.chat(model=model,
                                messages= [{"role": "user",
                                            "content": prompt}],
-                                           stream=True)
+                                           format=SectionRow.model_json_schema())
         return response["message"]["content"]
     except ollama.ResponseError as e:
         print("Error: ", e.error)
@@ -47,8 +48,8 @@ def extract_structured_record(line: str) -> SectionRow:
       - Parse the model's JSON response.
       - Validate the result with SectionRow(**data).
     """
-    prompt = "return the following line in the form of a working JSON set up with the different categories: program (should be 3 capital letters), number(should be 3 numbers with the possibilty of an L at the end), section(just a letter), title(look for a string in title case), credits(look for a float), days(a list that may look like -m-w-f-), times, room(4 letters followed by 3 numbers), faculty(someones first inital and last name), tags(the other thing usually a capital letter) be aware these will not always be in order in the following line :" + line 
-    query_ollama(prompt, MODEL)
+    prompt = "return the following line in the form of exclusively a working JSON set up with the different categories: program (should be 3 capital letters), number(should be 3 numbers with the possibilty of an L at the end), section(just a lowercase letter and is always present), title(look for a string in title case), credits(look for a float), days(a list that may look like -m-w-f- if not present list as -------), times (if not given list as TBA), room(4 letters followed by 3 numbers if ot present list as TBA), faculty(someones first inital and last name), tags(Possible tags are: A, S, G, R, E1, E2, E3, D. Tags may or may not be present in the line. If no tags from this list appear, set tags to None. Tags are typically at the end of the line. Hey guy here you fucking dipshit stop putting none when there are in fact tags you blind whore) here is an example line: THR 117 Acting-I 3 a K. Anderson 12:40-2:10PM --T-R-- GRNT 502 E1, A, THR would be the program, 117 would be the number, the section would be a, the faculty would be K. Anderson, the times would be 12:40-2:10PM, the days would be --T-R--,  the room would be GRNT 502 and the tag for instance would be A in this situation be aware these will not always be in order in the following line :" + line 
+    ans=query_ollama(prompt, MODEL)
 
     # The placeholder below produces an "empty" valid record.
     # It lets you test the pipeline without errors,
@@ -65,7 +66,8 @@ def extract_structured_record(line: str) -> SectionRow:
         "faculty": "",
         "tags": None,
     }
-    return SectionRow(**data)
+    print(ans)
+    return SectionRow.model_validate_json(ans)
 
 
 def process_file(in_path: str, out_path: str):
@@ -80,7 +82,7 @@ def process_file(in_path: str, out_path: str):
         writer.writerow(SectionRow.model_fields.keys())
 
         count = 0
-        limit = 5  # set a small limit for debugging; change to -1 for no limit ...
+        limit = 150  # set a small limit for debugging; change to -1 for no limit ...
 
         for line in fin:
             if not line.strip():

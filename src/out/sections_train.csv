@@ -1,0 +1,151 @@
+program;number;section;title;credits;days;times;room;faculty;tags
+ECO;210;a;Macroeconomic Analysis;3.0;-M-W-F-;1:50-2:50PM;YOUN 101;R. Radhakrishnan;
+THR;111;b;Lighting Practicum;1.0;;TBA;TBA;A. Kuznetsova;E1
+MAT;130;d;Introduction to Statistics;3.0;-M-W-F-;12:40-1:40PM;YOUN 201;D. Neidmann;
+THR;114;b;Rehearsal and Performance;1.0;-------;TBA;TBA;K. Anderson;
+MAT;311;a;Mathematical Statistics;3.0;-M-W-F-;12:40-1:40PM;YOUN 134;D. Hopper;
+MUS;192;a;CentreJazz;1.0;-M-----;4:00-6:00PM;GRNT 113;D. Worley;A
+BIO;210L;;BIO 210 Lab;0.0;--T-R--;2:20-3:50PM;YOUN 208;G. Bell;E1
+BIO;110;c;Evolution, Biodiversity, Ecology;4.0;-M-W-F-;10:20-11:20AM;YOUN 102;J. Shaffer;E3
+ECO;110;b;Introduction to Economics;3.0;-M-W-F-;12:40-1:40PM;CRNS 102;K. Jones;E2
+CHE;242;;Oranic Chemistry-II;4.0;-M-W-F-;11:30-12:30PM;YOUN 112;A. Hitron;YOUN
+POL;260;a;Intro to International Relations;3.0;--T-R--;8:00-9:30AM;CRNS 307;A. Hor;
+SPA;120;f;Beginning Spanish II;4.0;-M-W-F-;12:40-1:40PM;YOUN 245;L. Aja Lopez;A
+PHI;250;a;Self, World, and Freedom;3.0;-M-W-F-;3:00-4:00PM;CRNS 302;A. Roche;GRNT
+ECO;500;;Senior Seminar;3.0;-M-W-F-;1:50-2:50PM;OLIN 128;K. Greer;E1
+PSY;492;;Advanced Research Topics;1.0;-M-W-F-;8:00-9:00AM;YOUN 213;M. Cope;R
+SPA;120;c;Beginning Spanish II;4.0;-M-W-F-;9:10-10:10AM;CRNS 405;W. Costley;
+CHE;242L;a;CHE 242 Lab;0.0;--T----;8:00-11:00AM;YOUN 205;K. Paumi;
+PHI;381;;Feminism and Philosophy;3.0;--T-R--;2:20-3:50PM;GRNT 401;E. Cadavid;
+CHE;131;a;General Chemistry-I;4.0;-M-W-F-;8:00-9:00AM;YOUN 110;R. Witt;E3
+BIO;110;d;Evolution, Biodiversity, Ecology;4.0;;11:30-12:30PM;YOUN 102;M. Galatowitsch;E3
+PSY;500;a;Senior Seminar;3.0;--T-R--;2:20-3:50PM;YOUN 114;J. Goetz;
+BIO;227L;a;BIO 227 Lab;0.0;--T-R--;9:40-11:10AM;YOUN 126;A. Carr;
+CHE;241L;b;CHE 241 Lab;0.0;----R--;12:40-3:40PM;YOUN 236;A. Hitron;
+PHI;110;;Introduction to Philosophy;3.0;-M-W-F-;9:10-10:10AM;CRNS 302;A. Roche;A
+THR;111;;Lighting Practicum;1.0;-------;TBA;TBA;A. Kuznetsova;A
+REL;234;;Heaven and Hell;3.0;--T-R--;9:40-11:10AM;YOUN 110;L. Jefferson;E2
+CHE;348;;Polymer Chemistry;3.0;-M-W-F-;10:20-11:20AM;OLIN 202;L. Mehanna;
+MAT;305;a;Combinatorics and Graph Theory;3.0;--T-R--;12:40-2:10PM;YOUN 110;L. Wiglesworth;
+BIO;110L;;BIO 110 Lab;0.0;--T----;12:40-3:40PM;YOUN 206;C. O'Quin;
+THR;117;a;Acting-I;3.0;--T-R--;12:40-2:10PM;GRNT 502;K. Anderson;E1, A
+CHE;132L;a;CHE 132 Lab;0.0;--T----;8:00-11:00AM;YOUN 202;E. Wachter;
+MUS;193;a;African Drum Ensemble;1.0;-M-----;6:10-8:10PM;GRNT 113;J. Balcor;A
+BIO;210L;;BIO 210 Lab;0.0;--T-R--;12:40-2:10PM;YOUN 208;G. Bell;E1
+CHE;132;c;General Chemistry-II;4.0;-M-W-F-;11:30-12:30PM;OLIN 009;K. Fulfer;E3
+PSY;320;a;Abnormal Psychology;3.0;-M-W-F-;10:20-11:20AM;YOUN 244;J. Wertz;None
+ECO;280;b;Data Analysis & Communication;3.0;-M-W-F-;12:40-1:40PM;YOUN 102;S. Davis;
+DSC;330;a;Causal Inference;3.0;-M-W-F-;8:00-9:00AM;OLIN 100;D. Swartzentruber;
+THR;134;;Theatre History & Literature -II;3.0;-M-W-F-;11:30-12:30PM;GRNT 402;J. Goff;A, E1
+CHE;131L;a;CHE 131 Lab;0.0;----R--;8:00-11:00AM;YOUN 202;E. Wachter;
+SPA;120;;Beginning Spanish II;4.0;-M-W-F-;3:00-4:00PM;YOUN 245;C. Limerick;E1
+SPA;120;g;Beginning Spanish II;4.0;-M-W-F-;1:50-2:50PM;YOUN 245;C. Limerick;
+DSC;230;a;Statistical Modeling;3.0;--T-R--;9:40-11:10AM;OLIN 100;D. Swartzentruber;
+BIO;210L;a;BIO 210 Lab;0.0;--T-R--;8:00-9:30AM;YOUN 208;C. Garcia;
+POL;371;a;Political Economy of Development;3.0;-M-W-F-;11:30-12:30PM;GRNT 409;L. Hartmann;S
+REL;151;;Religions of Africa;3.0;-M-W-F-;3:00-4:00PM;GRNT 409;B. Bae;E2
+CHE;405;a;Advanced Research Topics;2.0;-M-----;3:00-4:00PM;OLIN 202;K. Young;R
+MUS;198;;Kentucky Contemporary Ensemble;1.0;--T----;7:00-9:00PM;GRNT 122;N Link;A
+MAT;185;;Modern Calculus II;3.0;-M-W-F-;10:20-11:20AM;OLIN 109;J. Kilty;
+ECO;390;a;Econometrics;3.0;-M-W-F-;8:00-9:00AM;YOUN 231;K. Jones;R
+MAT;360;;Differential Equations;3.0;-M-W-F-;1:50-2:50PM;OLIN 201;H. Pallage;E1
+MAT;165;b;Modern Calculus I;3.0;-M-W-F-;12:40-1:40PM;OLIN 122;M. Saeed;
+HIS;367;;The Civil War;3.0;--T-R--;9:40-11:10AM;YOUN 134;S. Egge;D
+MAT;130;;Introduction to Statistics;3.0;--T-R--;9:40-11:10AM;YOUN 201;L. Wiglesworth;YOUN
+PSY;111;a;Survey of Psychology;3.0;-M-W-F-;10:20-11:20AM;YOUN 231;K. Gill;E3
+CHE;242;a;Oranic Chemistry-II;4.0;-M-W-F-;10:20-11:20AM;YOUN 112;A. Hitron;
+BIO;110;a;Evolution, Biodiversity, Ecology;4.0;-M-W-F-;8:00-9:00AM;YOUN 102;D. Skidmore;E3
+REL;225;;Religion and Money;3.0;-M-W-F-;1:50-2:50PM;GRNT 409;B. Bae;E2
+THR;114;a;Rehearsal and Performance;1.0;-------;TBA;TBA;J. Goff;
+BIO;227L;b;BIO 227 Lab;0.0;--T-R--;12:40-2:10PM;YOUN 126;A. Carr;
+ENG;272;;Postcolonial Literature;3.0;-M-W-F-;9:10-10:10AM;GRNT 402;A. Kundu;E1, D
+MAT;130;;Introduction to Statistics;3.0;--T-R--;8:00-9:30AM;YOUN 201;L. Wiglesworth;GRNT
+CHE;132L;;CHE 132 Lab;0.0;--T----;8:00-11:00AM;YOUN 204;R. Witt;E1
+PSY;387;;Brain and Bias;3.0;-M-W-F-;9:10-10:10AM;YOUN 213;M. Stephens;D
+SPA;240;;Advanced Conversation;3.0;-M-W-F-;1:50-2:50PM;CRNS 405;A. Juncos;E1
+POL;220;a;Law and Society;3.0;-M-W-F-;8:00-9:00AM;OLIN 128;C. Paskewich;D
+ENG;170;a;Topics in Writing;3.0;-M-W-F-;12:40-1:40PM;CRNS 401;H. Chacon;
+MAT;405;;Research Methods;3.0;---W---;3:00-4:00PM;TBA;P. Poudel;
+BIO;308L;a;BIO 308 Lab;0.0;--T----;12:40-3:40PM;YOUN 131;A. Falk;
+BIO;227;a;Human Anatomy and Physiology II;4.0;-M-W-F-;11:30-12:30PM;YOUN 111;A. Carr;
+SPA;240;b;Advanced Conversation;3.0;-M-W-F-;3:00-4:00PM;CRNS;A. Juncos;E1
+PSY;111;b;Survey of Psychology;3.0;-M-W-F-;11:30-12:30PM;YOUN 231;K. Gill;E3
+SPA;255;;Hispanic Linguistics;3.0;-M-W-F-;12:40-1:40PM;YOUN 244;A. Juncos;E3
+ECO;110;c;Introduction to Economics;3.0;--T-R--;9:40-11:10AM;CRNS 301;A. Eddhir;E2
+ENG;500;;Modern British Literature;3.0;--T-R--;2:20-3:50PM;CRNS 401;H. Emmitt;None
+SPA;120;;Beginning Spanish II;4.0;-M-W-F-;8:00-9:00AM;CRNS 405;P. Limerick;
+CHE;242L;b;CHE 242 Lab;0.0;--T----;12:40-3:40PM;YOUN 205;K. Paumi;
+MAT;165;a;Modern Calculus I;3.0;-M-W-F-;11:30-12:30PM;OLIN 122;M. Saeed;
+ENG;270;a;African-American Literature;3.0;-M-W-F-;10:20-11:20AM;GRNT 402;P. White;E1, D
+CSC;110;;Interactive Game Development;3.0;--T-R--;8:00-9:30AM;OLIN 128;M. Bradshaw;E3
+THR;200;a;Advanced Topics in Production;1.0;-------;TBA;TBA;A. Kuznetsova;
+HIS;115;;The Global Crisis;3.0;-M-W-F-;11:30-12:30PM;YOUN 201;A. Tubb;E2, S
+MUS;183;a;Centre College Choir;1.0;-M-W-;7:00-8:00PM;GRNT 114;J. Van Niekerk;A
+MAT;300;a;Foundation of Mathematics;3.0;-M-W-F-;9:10-10:10AM;OLIN 109;P. Poudel;
+POL;130;a;Political Institutions;3.0;-M-W-F-;11:30-12:30PM;YOUN 138;W. Mehrabi;
+POL;338;;Incarceration;3.0;-M-W-F-;10:20-11:20AM;OLIN;C. Paskewich;E3
+CHE;131L;b;CHE 131 Lab;0.0;----R--;12:40-3:40PM;YOUN 202;E. Wachter;
+BIO;308;;Paleontology;4.0;-M-W-F-;10:20-11:20AM;YOUN 138;A. Falk;A
+POL;331;a;American Courts;3.0;--T-R--;9:40-11:10AM;YOUN;P. Bergeron;GRNT
+MUS;195;a;Chamber Music;1.0;--T-R--;5:00-6:00PM;GRNT 113;R. Seebacher;A
+SPA;221;a;Medical Spanish;3.0;-M-W-F-;12:40-1:40PM;CRNS 468;I. Sprinceana;E3
+ECO;110;a;Introduction to Economics;3.0;-M-W-F-;11:30-12:30PM;CRNS 102;K. Jones;E2
+ENG;403;a;Shakespeare Comedy of Love;3.0;-M-W-F-;1:50-2:50PM;GRNT 403;P. White;
+PSY;111;d;Survey of Psychology;3.0;-M-W-F-;1:50-2:50PM;YOUN 231;M. Stephens;E3
+MAT;130;c;Introduction to Statistics;3.0;-M-W-F-;10:20-11:20AM;YOUN 201;D. Swartzentruber;
+PSY;340;a;Psychometrics;3.0;-M-W-F-;3:00-4:00PM;YOUN 112;J. Wertz;
+ECO;385;;Health Economics;3.0;-M-W-F-;12:40-1:40PM;CRNS 302;J. Perry;
+BIO;392;a;Bioinformatics;4.0;-M-W-F-;8:00-9:00AM;YOUN 113;K. O'Quin;
+THR;110;a;Scenic Practicum;1.0;-------;TBA;TBA;A. Kuznetsova;
+MAT;360;a;Differential Equations;3.0;-M-W-F-;12:40-1:40PM;OLIN 201;H. Pallage;
+CHE;390;a;Teaching and Learning in Chemistry;3.0;--W--;3:00-4:00PM;OLIN 202;L. Demoranville;
+SPA;220;a;Intermediate Spanish II;3.0;-M-W-F-;11:30-12:30PM;CRNS;C. Limerick;
+BIO;110L;;BIO 110 Lab;0.0;--T----;8:00-11:00AM;YOUN 206;C. O'Quin;E1
+BIO;500;b;Senior Seminar;3.0;-M-W---;1:50-3:20PM;TBA;A. Falk;
+THR;103;;Modern Dance Performance;1.0;--T-R--;7:00-8:00PM;GRNT 502;Stephenson/Tomb;E1
+MAT;130;;Introduction to Statistics;3.0;-M-W-F-;9:10-10:10AM;YOUN 201;D. Hopper;None
+MAT;130;;Introduction to Statistics;3.0;-M-W-F-;8:00-9:00AM;YOUN 201;D. Hopper;D
+POL;120;;Political Ideaologies;3.0;-M-W-F-;9:10-10:10AM;GRNT 409;M. Novak-Herzog;E2
+MUS;196;;Kentucky Music Ensemble;1.0;----R--;4:00-6:00PM;GRNT 122;N Link;A
+THR;310;;Improvisation;3.0;--T-R--;9:40-11:10AM;GRNT 502;J. Goff;A
+POL;205;a;Research Methods;3.0;-M-W-F-;10:20-11:20AM;OLIN 208;W. Mehrabi;R
+SPA;250;;Intro to Literary Analysis;3.0;--T-R--;12:40-2:10PM;YOUN 134;G. Ballard;GRNT
+MUS;191;a;Centre Symphony Orchestra;1.0;--T-R--;7:30-9:00PM;GRNT 113;R. Seebacher;A
+CHE;132;a;General Chemistry-II;4.0;-M-W-F-;9:10-10:10AM;OLIN 202;D. Scott;E3
+CHE;350;a;Instrumental Analysis;4.0;-M-W-F-;11:30-12:30PM;OLIN 202;L. Demoranville;
+SPA;120;e;Beginning Spanish II;4.0;-M-W-F-;11:30-12:30PM;YOUN 245;L Aja Lopez;
+POL;300;a;Western Political Theory I;3.0;-M-W-F-;9:10-10:10AM;OLIN 128;C. Paskewich;
+PSY;210;a;Experimental Psychology;4.0;-M-W-F-;1:50-2:50PM;YOUN 213;M. Cope;R
+POL;120;b;Political Ideaologies;3.0;-M-W-F-;11:30-12:30PM;GRNT 409;M. Novak-Herzog;E2
+PHI;110;;Introduction to Philosophy;3.0;-M-W-F-;10:20-11:20AM;CRNS 302;A. Roche;None
+BIO;340;a;Microbiology;4.0;-M-W-F-;10:20-11:20AM;YOUN 111;D. Skidmore;E1
+ENG;335;a;Beyond the Short Story;3.0;-M-W-F-;11:30-12:30PM;GRNT 403;A. Osanloo;A
+ECO;500;;Senior Seminar;3.0;-M-W-F-;3:00-4:00PM;OLIN 128;K. Greer;E3
+BIO;210;b;Genetics;4.0;-M-W-F-;11:30-12:30PM;YOUN 102;A. Hale;E3
+ENG;339;;Cormac McCarthy;3.0;--T-R--;9:40-11:10AM;YOUN 111;S. Peebles;S
+REL;499;a;Senior Seminar;3.0;-------;TBA;TBA;L. Jefferson;
+MUS;184;;Centre Singers;2.0;-M-W-;6:00-8:00PM;GRNT 114;J. Van Niekerk;A
+HIS;121;T;Cultivating the Wilderness;3.0;-M-W-F-;1:50-2:50PM;GRNT 402;T. Strauch;E2, S
+ECO;280;;Data Analysis & Communication;3.0;-M-W-F-;10:20-11:20AM;YOUN 110;S. Davis;
+CHE;500;;Senior Seminar;3.0;-M-W-F-;9:10-10:10AM;YOUN 112;K. Paumi;YOUN
+HIS;126;;With Liberty and Justice for All;3.0;-M-W-F-;9:10-10:10AM;OLIN;S. Egge;E2, D
+HIS;343;n/a;The First World War in Africa;3.0;-M-W-F-;8:00-9:00AM;CRNS 301;J. Earle;
+CHE;241L;a;CHE 241 Lab;0.0;----R--;8:00-11:00AM;YOUN 236;A. Hitron;
+HIS;333;J;Chairman Mao's China;3.0;-M-W-F-;1:50-2:50PM;OLIN 124;J. Harney;
+MAT;426;a;Topics in Linear Algebra;3.0;--T-R--;9:40-11:10AM;OLIN;J. Kilty;E3
+THR;350;a;Scenery & Costume Design;3.0;-M-W-F-;12:40-1:40PM;GRNT 504;A. Kuznetsova;
+PSY;491;;Advanced Research Topics;3.0;-M-W-F-;8:00-9:00AM;YOUN 213;M. Cope;R
+BIO;360L;a;BIO 360 Lab;0.0;--T----;12:40-3:40PM;YOUN 129;J. Shaffer;
+SPA;346;a;Modern Spanish Theatre;3.0;-M-W-F-;3:00-4:00PM;CRNS 468;I. Sprinceana;
+PSY;111;;Survey of Psychology;3.0;-M-W-F-;12:40-1:40PM;YOUN 231;M. Stephens;E3
+ECO;395;a;Empirical Analysis in Economics and Finance;3.0;--T-R--;12:40-2:10PM;CRNS 301;A. Eddhir;
+CSC;370;a;Design & Analysis of Algorithms;3.0;-M-W-F-;10:20-11:20AM;OLIN 211;W. Bailey;
+PSY;305;a;Psychology of Learning;3.0;--T-R--;9:40-11:10AM;YOUN 231;B. Cusato;
+BIO;230;a;Nutrition;3.0;-M-W-F-;9:10-10:10AM;YOUN 134;A. Carr;A
+CHE;362;a;Quantum Chemistry and Spectroscopy;4.0;-M-W-F-;1:50-2:50PM;OLIN 122;K. Fulfer;
+HIS;302;;History of Rome;3.0;-M-W-F-;10:20-11:20AM;YOUN 101;J. Morrison;
+ECO;480;a;Business Strategies & Market Structure;3.0;--T-R--;12:40-2:10PM;YOUN 111;K. Greer;
+POL;336;;Politics of Sexuality;3.0;--T-R--;12:40-2:10PM;GRNT 409;M. Novak-Herzog;
+BIO;308L;;BIO 308 Lab;0.0;----R--;12:40-3:40PM;YOUN 131;A. Falk;R
+HIS;500;;Senior Seminar;3.0;--T-R--;8:00-9:30AM;CRNS 401;M. Castro;R
+CHE;131;b;General Chemistry-I;4.0;-M-W-F-;9:10-10:10AM;YOUN 110;R. Witt;E3

@@ -1,0 +1,1293 @@
+{
+  "program": "ECO",
+  "number": "210",
+  "title": "Macroeconomic Analysis",
+  "credits": 3.0,
+  "faculty": "R. Radhakrishnan",
+  "section": "a",
+  "days": "-M-W-F-",
+  "times": "1:50-2:50PM",
+  "room": "YOUN 101",
+  "tags": null
+}
+
+{"program": "THR", "number": "111", "title": "Lighting Practicum", "credits": 1.0, "faculty": "A. Kuznetsova", "section": "b", "times": "TBA", "room": "TBA", "tags": "E1"}
+
+{
+  "program": "MAT",
+  "number": "130",
+  "title": "Introduction to Statistics",
+  "credits": 3.0,
+  "faculty": "D. Neidmann",
+  "section": "d",
+  "days": "-M-W-F-",
+  "times": "12:40-1:40PM",
+  "room": "YOUN 201",
+  "tags": null
+}
+
+{
+  "program": "THR",
+  "number": "114",
+  "title": "Rehearsal and Performance",
+  "credits": 1.0,
+  "faculty": "K. Anderson",
+  "section": "b",
+  "days": "-------",
+  "times": "TBA",
+  "room": "TBA",
+  "tags": null
+}
+
+{
+  "program": "MAT",
+  "number": "311",
+  "title": "Mathematical Statistics",
+  "credits": 3.0,
+  "faculty": "D. Hopper",
+  "section": "a",
+  "days": "-M-W-F-",
+  "times": "12:40-1:40PM",
+  "room": "YOUN 134",
+  "tags": null
+}
+
+{"program": "MUS", "number": "192", "title": "CentreJazz", "credits": 1.0, "faculty": "D. Worley", "section": "a", "days": "-M-----", "times": "4:00-6:00PM", "room": "GRNT 113", "tags": "A"}
+
+{"program": "BIO", "number": "210L", "title": "BIO 210 Lab", "credits": 0.0, "faculty": "G. Bell", "days": "--T-R--", "times": "2:20-3:50PM", "room": "YOUN 208", "tags": "E1"}
+
+{
+  "program": "BIO",
+  "number": "110",
+  "title": "Evolution, Biodiversity, Ecology",
+  "credits": 4.0,
+  "faculty": "J. Shaffer",
+  "section": "c",
+  "days": "-M-W-F-",
+  "times": "10:20-11:20AM",
+  "room": "YOUN 102",
+  "tags": "E3"
+}
+
+{"program": "ECO", "number": "110", "title": "Introduction to Economics", "credits": 3.0, "faculty": "K. Jones", "section": "b", "days": "-M-W-F-", "times": "12:40-1:40PM", "room": "CRNS 102", "tags": "E2"}
+
+{"program": "CHE",
+ "number": "242",
+ "title": "Oranic Chemistry-II",
+ "credits": 4.0,
+ "faculty": "A. Hitron",
+ "days": "-M-W-F-",
+ "times": "11:30-12:30PM",
+ "room": "YOUN 112",
+ "tags": "YOUN"}
+{
+  "program": "POL",
+  "number": "260",
+  "title": "Intro to International Relations",
+  "credits": 3.0,
+  "faculty": "A. Hor",
+  "section": "a",
+  "days": "--T-R--",
+  "times": "8:00-9:30AM",
+  "room": "CRNS 307",
+  "tags": null
+}
+{
+  "program": "SPA",
+  "number": "120",
+  "title": "Beginning Spanish II",
+  "credits": 4.0,
+  "faculty": "L. Aja Lopez",
+  "section": "f",
+  "days": "-M-W-F-",
+  "times": "12:40-1:40PM",
+  "room": "YOUN 245",
+  "tags": "A"
+}
+
+{"program": "PHI", "number": "250", "title": "Self, World, and Freedom", "credits": 3.0, "faculty": "A. Roche", "section": "a", "days": "-M-W-F-", "times": "3:00-4:00PM", "room": "CRNS 302", "tags": "GRNT"}
+
+{"program": "ECO", "number": "500", "title": "Senior Seminar", "credits": 3.0, "faculty": "K. Greer", "days": "-M-W-F-", "times": "1:50-2:50PM", "room": "OLIN 128", "tags": "E1"}
+
+{"program": "PSY", "number": "492", "title": "Advanced Research Topics", "credits": 1, "faculty": "M. Cope", "days": "-M-W-F-", "times": "8:00-9:00AM", "room": "YOUN 213", "tags": "R"}
+
+{"program": "SPA", "number": "120", "title": "Beginning Spanish II", "credits": 4.0, "faculty": "W. Costley", "section": "c", "days": "-M-W-F-", "times": "9:10-10:10AM", "room": "CRNS 405", "tags": null}
+
+{
+  "program": "CHE",
+  "number": "242L",
+  "title": "CHE 242 Lab",
+  "credits": 0.0,
+  "faculty": "K. Paumi",
+  "section": "a",
+  "days": "--T----",
+  "times": "8:00-11:00AM",
+  "room": "YOUN 205",
+  "tags": null
+}
+
+{
+  "program": "PHI",
+  "number": "381",
+  "title": "Feminism and Philosophy",
+  "credits": 3.0,
+  "faculty": "E. Cadavid",
+  "days": "--T-R--",
+  "times": "2:20-3:50PM",
+  "room": "GRNT 401",
+  "tags": null
+}
+
+{
+  "program": "CHE",
+  "number": "131",
+  "title": "General Chemistry-I",
+  "credits": 4.0,
+  "faculty": "R. Witt",
+  "section": "a",
+  "days": "-M-W-F-",
+  "times": "8:00-9:00AM",
+  "room": "YOUN 110",
+  "tags": "E3"
+}
+
+{
+  "program": "BIO",
+  "number": "110",
+  "title": "Evolution, Biodiversity, Ecology",
+  "credits": 4.0,
+  "faculty": "M. Galatowitsch",
+  "section": "d",
+  "times": "11:30-12:30PM",
+  "room": "YOUN 102",
+  "tags": "E3"
+}
+
+{
+  "program": "PSY",
+  "number": "500",
+  "title": "Senior Seminar",
+  "credits": 3.0,
+  "faculty": "J. Goetz",
+  "section": "a",
+  "days": "--T-R--",
+  "times": "2:20-3:50PM",
+  "room": "YOUN 114",
+  "tags": null
+}
+
+{
+  "program": "BIO",
+  "number": "227L",
+  "title": "BIO 227 Lab",
+  "credits": 0.0,
+  "faculty": "A. Carr",
+  "section": "a",
+  "days": "--T-R--",
+  "times": "9:40-11:10AM",
+  "room": "YOUN 126",
+  "tags": null
+}
+
+{
+  "program": "CHE",
+  "number": "241L",
+  "title": "CHE 241 Lab",
+  "credits": 0.0,
+  "faculty": "A. Hitron",
+  "section": "b",
+  "days": "----R--",
+  "times": "12:40-3:40PM",
+  "room": "YOUN 236",
+  "tags": null
+}
+
+{"program": "PHI", "number": "110", "title": "Introduction to Philosophy", "credits": 3.0, "faculty": "A. Roche", "days": "-M-W-F-", "times": "9:10-10:10AM", "room": "CRNS 302", "tags": "A"}
+
+{"program": "THR", "number": "111", "title": "Lighting Practicum", "credits": 1.0, "faculty": "A. Kuznetsova", "days": "-------", "times": "TBA", "room": "TBA", "tags": "A"}
+
+{"program": "REL", "number": "234", "title": "Heaven and Hell", "credits": 3.0, "faculty": "L. Jefferson", "days": "--T-R--", "times": "9:40-11:10AM", "room": "YOUN 110", "tags": "E2"}
+
+{"program": "CHE", "number": "348", "title": "Polymer Chemistry", "credits": 3.0, "faculty": "L. Mehanna", "days": "-M-W-F-", "times": "10:20-11:20AM", "room": "OLIN 202", "tags": null}
+
+{
+  "program": "MAT",
+  "number": "305",
+  "title": "Combinatorics and Graph Theory",
+  "credits": 3.0,
+  "faculty": "L. Wiglesworth",
+  "section": "a",
+  "days": "--T-R--",
+  "times": "12:40-2:10PM",
+  "room": "YOUN 110",
+  "tags": null
+}
+
+{"program": "BIO", "number": "110L", "title": "BIO 110 Lab", "credits": 0.0, "faculty": "C. O'Quin", "days": "--T----", "times": "12:40-3:40PM", "room": "YOUN 206", "tags": null}
+
+{
+  "program": "THR",
+  "number": "117",
+  "title": "Acting-I",
+  "credits": 3.0,
+  "faculty": "K. Anderson",
+  "section": "a",
+  "days": "--T-R--",
+  "times": "12:40-2:10PM",
+  "room": "GRNT 502",
+  "tags": "E1, A"
+}
+
+{
+  "program": "CHE",
+  "number": "132L",
+  "title": "CHE 132 Lab",
+  "credits": 0.0,
+  "faculty": "E. Wachter",
+  "section": "a",
+  "days": "--T----",
+  "times": "8:00-11:00AM",
+  "room": "YOUN 202",
+  "tags": null
+}
+
+{
+  "program": "MUS",
+  "number": "193",
+  "title": "African Drum Ensemble",
+  "credits": 1,
+  "faculty": "J. Balcor",
+  "section": "a",
+  "days": "-M-----",
+  "times": "6:10-8:10PM",
+  "room": "GRNT 113",
+  "tags": "A"
+}
+
+{"program": "BIO", "number": "210L", "title": "BIO 210 Lab", "credits": 0.0, "faculty": "G. Bell", "days": "--T-R--", "times": "12:40-2:10PM", "room": "YOUN 208", "tags": "E1"}
+
+{
+  "program": "CHE",
+  "number": "132",
+  "title": "General Chemistry-II",
+  "credits": 4.0,
+  "faculty": "K. Fulfer",
+  "section": "c",
+  "days": "-M-W-F-",
+  "times": "11:30-12:30PM",
+  "room": "OLIN 009",
+  "tags": "E3"
+}
+
+{"program": "PSY", "number": "320", "title": "Abnormal Psychology", "credits": 3.0, "faculty": "J. Wertz", "section": "a", "days": "-M-W-F-", "times": "10:20-11:20AM", "room": "YOUN 244", "tags": "None"}
+
+{
+  "program": "ECO",
+  "number": "280",
+  "title": "Data Analysis & Communication",
+  "credits": 3.0,
+  "faculty": "S. Davis",
+  "section": "b",
+  "days": "-M-W-F-",
+  "times": "12:40-1:40PM",
+  "room": "YOUN 102",
+  "tags": null
+}
+
+{
+  "program": "DSC",
+  "number": "330",
+  "title": "Causal Inference",
+  "credits": 3.0,
+  "faculty": "D. Swartzentruber",
+  "section": "a",
+  "days": "-M-W-F-",
+  "times": "8:00-9:00AM",
+  "room": "OLIN 100",
+  "tags": null
+}
+
+{"program": "THR",
+ "number": "134",
+ "title": "Theatre History & Literature -II",
+ "credits": 3.0,
+ "faculty": "J. Goff",
+ "days": "-M-W-F-",
+ "times": "11:30-12:30PM",
+ "room": "GRNT 402",
+ "tags": "A, E1"}
+{
+  "program": "CHE",
+  "number": "131L",
+  "title": "CHE 131 Lab",
+  "credits": 0.0,
+  "faculty": "E. Wachter",
+  "section": "a",
+  "days": "----R--",
+  "times": "8:00-11:00AM",
+  "room": "YOUN 202",
+  "tags": null
+}
+
+{"program": "SPA", "number": "120", "title": "Beginning Spanish II", "credits": 4.0, "faculty": "C. Limerick", "days": "-M-W-F-", "times": "3:00-4:00PM", "room": "YOUN 245", "tags": "E1"}
+
+{
+  "program": "SPA",
+  "number": "120",
+  "title": "Beginning Spanish II",
+  "credits": 4.0,
+  "faculty": "C. Limerick",
+  "section": "g",
+  "days": "-M-W-F-",
+  "times": "1:50-2:50PM",
+  "room": "YOUN 245",
+  "tags": null
+}
+
+{
+  "program": "DSC",
+  "number": "230",
+  "title": "Statistical Modeling",
+  "credits": 3.0,
+  "faculty": "D. Swartzentruber",
+  "section": "a",
+  "days": "--T-R--",
+  "times": "9:40-11:10AM",
+  "room": "OLIN 100",
+  "tags": null
+}
+{
+  "program": "BIO",
+  "number": "210L",
+  "title": "BIO 210 Lab",
+  "credits": 0.0,
+  "faculty": "C. Garcia",
+  "section": "a",
+  "days": "--T-R--",
+  "times": "8:00-9:30AM",
+  "room": "YOUN 208",
+  "tags": null
+}
+
+{"program": "POL", "number": "371", "title": "Political Economy of Development", "credits": 3.0, "faculty": "L. Hartmann", "section": "a", "days": "-M-W-F-", "times": "11:30-12:30PM", "room": "GRNT 409", "tags": "S"}
+
+{"program": "REL",
+ "number": "151",
+ "title": "Religions of Africa",
+ "credits": 3.0,
+ "faculty": "B. Bae",
+ "days": "-M-W-F-",
+ "times": "3:00-4:00PM",
+ "room": "GRNT 409",
+ "tags": "E2"}
+
+{
+  "program": "CHE",
+  "number": "405",
+  "title": "Advanced Research Topics",
+  "credits": 2.0,
+  "faculty": "K. Young",
+  "section": "a",
+  "days": "-M-----",
+  "times": "3:00-4:00PM",
+  "room": "OLIN 202",
+  "tags": "R"
+}
+
+{"program": "MUS", "number": "198", "title": "Kentucky Contemporary Ensemble", "credits": 1.0, "faculty": "N Link", "days": "--T----", "times": "7:00-9:00PM", "room": "GRNT 122", "tags": "A"}
+
+{"program": "MAT", "number": "185", "title": "Modern Calculus II", "credits": 3.0, "faculty": "J. Kilty", "days": "-M-W-F-", "times": "10:20-11:20AM", "room": "OLIN 109", "tags": null}
+
+{"program": "ECO",
+ "number": "390",
+ "title": "Econometrics",
+ "credits": 3.0,
+ "faculty": "K. Jones",
+ "section": "a",
+ "days": "-M-W-F-",
+ "times": "8:00-9:00AM",
+ "room": "YOUN 231",
+ "tags": "R"}
+
+{"program": "MAT", "number": "360", "title": "Differential Equations", "credits": 3.0, "faculty": "H. Pallage", "days": "-M-W-F-", "times": "1:50-2:50PM", "room": "OLIN 201", "tags": "E1"}
+
+{
+  "program": "MAT",
+  "number": "165",
+  "title": "Modern Calculus I",
+  "credits": 3.0,
+  "faculty": "M. Saeed",
+  "section": "b",
+  "days": "-M-W-F-",
+  "times": "12:40-1:40PM",
+  "room": "OLIN 122",
+  "tags": null
+}
+
+{
+  "program": "HIS",
+  "number": "367",
+  "title": "The Civil War",
+  "credits": 3.0,
+  "faculty": "S. Egge",
+  "days": "--T-R--",
+  "times": "9:40-11:10AM",
+  "room": "YOUN 134",
+  "tags": "D"
+}
+
+{"program": "MAT",
+ "number": "130",
+ "title": "Introduction to Statistics",
+ "credits": 3.0,
+ "faculty": "L. Wiglesworth",
+ "days": "--T-R--",
+ "times": "9:40-11:10AM",
+ "room": "YOUN 201",
+ "tags": "YOUN"}
+
+{
+  "program": "PSY",
+  "number": "111",
+  "title": "Survey of Psychology",
+  "credits": 3.0,
+  "faculty": "K. Gill",
+  "section": "a",
+  "days": "-M-W-F-",
+  "times": "10:20-11:20AM",
+  "room": "YOUN 231",
+  "tags": "E3"
+}
+
+{
+  "program": "CHE",
+  "number": "242",
+  "title": "Oranic Chemistry-II",
+  "credits": 4.0,
+  "faculty": "A. Hitron",
+  "section": "a",
+  "days": "-M-W-F-",
+  "times": "10:20-11:20AM",
+  "room": "YOUN 112",
+  "tags": null
+}
+
+{
+  "program": "BIO",
+  "number": "110",
+  "title": "Evolution, Biodiversity, Ecology",
+  "credits": 4.0,
+  "faculty": "D. Skidmore",
+  "section": "a",
+  "days": "-M-W-F-",
+  "times": "8:00-9:00AM",
+  "room": "YOUN 102",
+  "tags": "E3"
+}
+
+{"program": "REL", "number": "225", "title": "Religion and Money", "credits": 3.0, "faculty": "B. Bae", "days": "-M-W-F-", "times": "1:50-2:50PM", "room": "GRNT 409", "tags": "E2"}
+
+{
+  "program": "THR",
+  "number": "114",
+  "title": "Rehearsal and Performance",
+  "credits": 1.0,
+  "faculty": "J. Goff",
+  "section": "a",
+  "days": "-------",
+  "times": "TBA",
+  "room": "TBA",
+  "tags": null
+}
+
+{
+  "program": "BIO",
+  "number": "227L",
+  "title": "BIO 227 Lab",
+  "credits": 0.0,
+  "faculty": "A. Carr",
+  "section": "b",
+  "days": "--T-R--",
+  "times": "12:40-2:10PM",
+  "room": "YOUN 126",
+  "tags": null
+}
+
+{
+  "program": "ENG",
+  "number": "272",
+  "title": "Postcolonial Literature",
+  "credits": 3.0,
+  "faculty": "A. Kundu",
+  "days": "-M-W-F-",
+  "times": "9:10-10:10AM",
+  "room": "GRNT 402",
+  "tags": "E1, D"
+}
+
+{"program": "MAT",
+ "number": "130",
+ "title": "Introduction to Statistics",
+ "credits": 3.0,
+ "faculty": "L. Wiglesworth",
+ "days": "--T-R--",
+ "times": "8:00-9:30AM",
+ "room": "YOUN 201",
+ "tags": "GRNT"}
+
+{"program": "CHE", "number": "132L", "title": "CHE 132 Lab", "credits": 0.0, "faculty": "R. Witt", "days": "--T----", "times": "8:00-11:00AM", "room": "YOUN 204", "tags": "E1"}
+
+{"program": "PSY", "number": "387", "title": "Brain and Bias", "credits": 3.0, "faculty": "M. Stephens", "days": "-M-W-F-", "times": "9:10-10:10AM", "room": "YOUN 213", "tags": "D"}
+
+{"program": "SPA", "number": "240", "title": "Advanced Conversation", "credits": 3.0, "faculty": "A. Juncos", "days": "-M-W-F-", "times": "1:50-2:50PM", "room": "CRNS 405", "tags": "E1"}
+
+{
+  "program": "POL",
+  "number": "220",
+  "title": "Law and Society",
+  "credits": 3.0,
+  "faculty": "C. Paskewich",
+  "section": "a",
+  "days": "-M-W-F-",
+  "times": "8:00-9:00AM",
+  "room": "OLIN 128",
+  "tags": "D"
+}
+
+{
+  "program": "ENG",
+  "number": "170",
+  "title": "Topics in Writing",
+  "credits": 3.0,
+  "faculty": "H. Chacon",
+  "section": "a",
+  "days": "-M-W-F-",
+  "times": "12:40-1:40PM",
+  "room": "CRNS 401",
+  "tags": null
+}
+
+{
+  "program": "MAT",
+  "number": "405",
+  "title": "Research Methods",
+  "credits": 3.0,
+  "faculty": "P. Poudel",
+  "days": "---W---",
+  "times": "3:00-4:00PM",
+  "room": "TBA",
+  "tags": null
+}
+
+{
+  "program": "BIO",
+  "number": "308L",
+  "title": "BIO 308 Lab",
+  "credits": 0.0,
+  "faculty": "A. Falk",
+  "section": "a",
+  "days": "--T----",
+  "times": "12:40-3:40PM",
+  "room": "YOUN 131",
+  "tags": null
+}
+
+{
+  "program": "BIO",
+  "number": "227",
+  "title": "Human Anatomy and Physiology II",
+  "credits": 4.0,
+  "faculty": "A. Carr",
+  "section": "a",
+  "days": "-M-W-F-",
+  "times": "11:30-12:30PM",
+  "room": "YOUN 111",
+  "tags": null
+}
+
+{"program": "SPA", "number": "240", "title": "Advanced Conversation", "credits": 3.0, "faculty": "A. Juncos", "section": "b", "days": "-M-W-F-", "times": "3:00-4:00PM", "room": "CRNS", "tags": "E1"}
+
+{
+  "program": "PSY",
+  "number": "111",
+  "title": "Survey of Psychology",
+  "credits": 3.0,
+  "faculty": "K. Gill",
+  "section": "b",
+  "days": "-M-W-F-",
+  "times": "11:30-12:30PM",
+  "room": "YOUN 231",
+  "tags": "E3"
+}
+
+{"program": "SPA", "number": "255", "title": "Hispanic Linguistics", "credits": 3.0, "faculty": "A. Juncos", "days": "-M-W-F-", "times": "12:40-1:40PM", "room": "YOUN 244", "tags": "E3"}
+
+{"program": "ECO", "number": "110", "title": "Introduction to Economics", "credits": 3.0, "faculty": "A. Eddhir", "section": "c", "days": "--T-R--", "times": "9:40-11:10AM", "room": "CRNS 301", "tags": "E2"}
+
+{"program": "ENG", "number": "500", "title": "Modern British Literature", "credits": 3.0, "faculty": "H. Emmitt", "days": "--T-R--", "times": "2:20-3:50PM", "room": "CRNS 401", "tags": "None"}
+
+{"program": "SPA",
+ "number": "120",
+ "title": "Beginning Spanish II",
+ "credits": 4.0,
+ "faculty": "P. Limerick",
+ "days": "-M-W-F-",
+ "times": "8:00-9:00AM",
+ "room": "CRNS 405",
+ "tags": null}
+
+{
+  "program": "CHE",
+  "number": "242L",
+  "title": "CHE 242 Lab",
+  "credits": 0.0,
+  "faculty": "K. Paumi",
+  "section": "b",
+  "days": "--T----",
+  "times": "12:40-3:40PM",
+  "room": "YOUN 205",
+  "tags": null
+}
+
+{
+  "program": "MAT",
+  "number": "165",
+  "title": "Modern Calculus I",
+  "credits": 3.0,
+  "faculty": "M. Saeed",
+  "section": "a",
+  "days": "-M-W-F-",
+  "times": "11:30-12:30PM",
+  "room": "OLIN 122",
+  "tags": null
+}
+
+{
+  "program": "ENG",
+  "number": "270",
+  "title": "African-American Literature",
+  "credits": 3.0,
+  "faculty": "P. White",
+  "section": "a",
+  "days": "-M-W-F-",
+  "times": "10:20-11:20AM",
+  "room": "GRNT 402",
+  "tags": "E1, D"
+}
+
+{"program": "CSC", "number": "110", "title": "Interactive Game Development", "credits": 3.0, "faculty": "M. Bradshaw", "days": "--T-R--", "times": "8:00-9:30AM", "room": "OLIN 128", "tags": "E3"}
+
+{
+  "program": "THR",
+  "number": "200",
+  "title": "Advanced Topics in Production",
+  "credits": 1.0,
+  "faculty": "A. Kuznetsova",
+  "section": "a",
+  "days": "-------",
+  "times": "TBA",
+  "room": "TBA",
+  "tags": null
+}
+
+{"program": "HIS", "number": "115", "title": "The Global Crisis", "credits": 3.0, "faculty": "A. Tubb", "days": "-M-W-F-", "times": "11:30-12:30PM", "room": "YOUN 201", "tags": "E2, S"}
+
+{"program": "MUS", "number": "183", "title": "Centre College Choir", "credits": 1, "faculty": "J. Van Niekerk", "section": "a", "days": "-M-W-", "times": "7:00-8:00PM", "room": "GRNT 114", "tags": "A"}
+
+{
+  "program": "MAT",
+  "number": "300",
+  "title": "Foundation of Mathematics",
+  "credits": 3.0,
+  "faculty": "P. Poudel",
+  "section": "a",
+  "days": "-M-W-F-",
+  "times": "9:10-10:10AM",
+  "room": "OLIN 109",
+  "tags": null
+}
+
+{
+  "program": "POL",
+  "number": "130",
+  "title": "Political Institutions",
+  "credits": 3.0,
+  "faculty": "W. Mehrabi",
+  "section": "a",
+  "days": "-M-W-F-",
+  "times": "11:30-12:30PM",
+  "room": "YOUN 138",
+  "tags": null
+}
+
+{"program": "POL", "number": "338", "title": "Incarceration", "credits": 3.0, "faculty": "C. Paskewich", "days": "-M-W-F-", "times": "10:20-11:20AM", "room": "OLIN", "tags": "E3"}
+
+{
+  "program": "CHE",
+  "number": "131L",
+  "title": "CHE 131 Lab",
+  "credits": 0.0,
+  "faculty": "E. Wachter",
+  "section": "b",
+  "days": "----R--",
+  "times": "12:40-3:40PM",
+  "room": "YOUN 202",
+  "tags": null
+}
+
+{"program": "BIO", "number": "308", "title": "Paleontology", "credits": 4.0, "faculty": "A. Falk", "days": "-M-W-F-", "times": "10:20-11:20AM", "room": "YOUN 138", "tags": "A"}
+
+{
+  "program": "POL",
+  "number": "331",
+  "title": "American Courts",
+  "credits": 3.0,
+  "faculty": "P. Bergeron",
+  "section": "a",
+  "days": "--T-R--",
+  "times": "9:40-11:10AM",
+  "room": "YOUN",
+  "tags": "GRNT"
+}
+
+{"program": "MUS", "number": "195", "title": "Chamber Music", "credits": 1, "faculty": "R. Seebacher", "section": "a", "days": "--T-R--", "times": "5:00-6:00PM", "room": "GRNT 113", "tags": "A"}
+
+{"program": "SPA", "number": "221", "title": "Medical Spanish", "credits": 3.0, "faculty": "I. Sprinceana", "section": "a", "days": "-M-W-F-", "times": "12:40-1:40PM", "room": "CRNS 468", "tags": "E3"}
+
+{
+  "program": "ECO",
+  "number": "110",
+  "title": "Introduction to Economics",
+  "credits": 3.0,
+  "faculty": "K. Jones",
+  "section": "a",
+  "days": "-M-W-F-",
+  "times": "11:30-12:30PM",
+  "room": "CRNS 102",
+  "tags": "E2"
+}
+
+{
+  "program": "ENG",
+  "number": "403",
+  "title": "Shakespeare Comedy of Love",
+  "credits": 3.0,
+  "faculty": "P. White",
+  "section": "a",
+  "days": "-M-W-F-",
+  "times": "1:50-2:50PM",
+  "room": "GRNT 403",
+  "tags": null
+}
+
+{
+  "program": "PSY",
+  "number": "111",
+  "title": "Survey of Psychology",
+  "credits": 3.0,
+  "faculty": "M. Stephens",
+  "section": "d",
+  "days": "-M-W-F-",
+  "times": "1:50-2:50PM",
+  "room": "YOUN 231",
+  "tags": "E3"
+}
+
+{
+  "program": "MAT",
+  "number": "130",
+  "title": "Introduction to Statistics",
+  "credits": 3.0,
+  "faculty": "D. Swartzentruber",
+  "section": "c",
+  "days": "-M-W-F-",
+  "times": "10:20-11:20AM",
+  "room": "YOUN 201",
+  "tags": null
+}
+
+{
+  "program": "PSY",
+  "number": "340",
+  "title": "Psychometrics",
+  "credits": 3.0,
+  "faculty": "J. Wertz",
+  "section": "a",
+  "days": "-M-W-F-",
+  "times": "3:00-4:00PM",
+  "room": "YOUN 112",
+  "tags": null
+}
+
+{"program": "ECO", "number": "385", "title": "Health Economics", "credits": 3.0, "faculty": "J. Perry", "days": "-M-W-F-", "times": "12:40-1:40PM", "room": "CRNS 302", "tags": null}
+
+{"program": "BIO", "number": "392", "title": "Bioinformatics", "credits": 4.0, "faculty": "K. O'Quin", "section": "a", "days": "-M-W-F-", "times": "8:00-9:00AM", "room": "YOUN 113", "tags": null}
+
+{
+  "program": "THR",
+  "number": "110",
+  "title": "Scenic Practicum",
+  "credits": 1.0,
+  "faculty": "A. Kuznetsova",
+  "section": "a",
+  "days": "-------",
+  "times": "TBA",
+  "room": "TBA",
+  "tags": null
+}
+
+{
+  "program": "MAT",
+  "number": "360",
+  "title": "Differential Equations",
+  "credits": 3.0,
+  "faculty": "H. Pallage",
+  "section": "a",
+  "days": "-M-W-F-",
+  "times": "12:40-1:40PM",
+  "room": "OLIN 201",
+  "tags": null
+}
+
+{
+  "program": "CHE",
+  "number": "390",
+  "title": "Teaching and Learning in Chemistry",
+  "credits": 3.0,
+  "faculty": "L. Demoranville",
+  "section": "a",
+  "days": "--W--",
+  "times": "3:00-4:00PM",
+  "room": "OLIN 202",
+  "tags": null
+}
+
+{
+  "program": "SPA",
+  "number": "220",
+  "title": "Intermediate Spanish II",
+  "credits": 3.0,
+  "faculty": "C. Limerick",
+  "section": "a",
+  "days": "-M-W-F-",
+  "times": "11:30-12:30PM",
+  "room": "CRNS",
+  "tags": null
+}
+
+{"program": "BIO", "number": "110L", "title": "BIO 110 Lab", "credits": 0.0, "faculty": "C. O'Quin", "days": "--T----", "times": "8:00-11:00AM", "room": "YOUN 206", "tags": "E1"}
+
+{
+  "program": "BIO",
+  "number": "500",
+  "title": "Senior Seminar",
+  "credits": 3.0,
+  "faculty": "A. Falk",
+  "section": "b",
+  "days": "-M-W---",
+  "times": "1:50-3:20PM",
+  "room": "TBA",
+  "tags": null
+}
+
+{"program": "THR", "number": "103", "title": "Modern Dance Performance", "credits": 1.0, "faculty": "Stephenson/Tomb", "days": "--T-R--", "times": "7:00-8:00PM", "room": "GRNT 502", "tags": "E1"}
+
+{"program": "MAT", "number": "130", "title": "Introduction to Statistics", "credits": 3.0, "faculty": "D. Hopper", "days": "-M-W-F-", "times": "9:10-10:10AM", "room": "YOUN 201", "tags": "None"}
+
+{"program": "MAT", "number": "130", "title": "Introduction to Statistics", "credits": 3.0, "faculty": "D. Hopper", "days": "-M-W-F-", "times": "8:00-9:00AM", "room": "YOUN 201", "tags": "D"}
+
+{
+  "program": "POL",
+  "number": "120",
+  "title": "Political Ideaologies",
+  "credits": 3.0,
+  "faculty": "M. Novak-Herzog",
+  "days": "-M-W-F-",
+  "times": "9:10-10:10AM",
+  "room": "GRNT 409",
+  "tags": "E2"
+}
+
+{"program": "MUS", "number": "196", "title": "Kentucky Music Ensemble", "credits": 1.0, "faculty": "N Link", "days": "----R--", "times": "4:00-6:00PM", "room": "GRNT 122", "tags": "A"}
+
+{"program": "THR",
+ "number": "310",
+ "title": "Improvisation",
+ "credits": 3.0,
+ "faculty": "J. Goff",
+ "days": "--T-R--",
+ "times": "9:40-11:10AM",
+ "room": "GRNT 502",
+ "tags": "A"}
+
+{
+  "program": "POL",
+  "number": "205",
+  "title": "Research Methods",
+  "credits": 3.0,
+  "faculty": "W. Mehrabi",
+  "section": "a",
+  "days": "-M-W-F-",
+  "times": "10:20-11:20AM",
+  "room": "OLIN 208",
+  "tags": "R"
+}
+
+{"program": "SPA",
+ "number": "250",
+ "title": "Intro to Literary Analysis",
+ "credits": 3.0,
+ "faculty": "G. Ballard",
+ "days": "--T-R--",
+ "times": "12:40-2:10PM",
+ "room": "YOUN 134",
+ "tags": "GRNT"}
+
+{
+  "program": "MUS",
+  "number": "191",
+  "title": "Centre Symphony Orchestra",
+  "credits": 1.0,
+  "faculty": "R. Seebacher",
+  "section": "a",
+  "days": "--T-R--",
+  "times": "7:30-9:00PM",
+  "room": "GRNT 113",
+  "tags": "A"
+}
+
+{
+  "program": "CHE",
+  "number": "132",
+  "title": "General Chemistry-II",
+  "credits": 4.0,
+  "faculty": "D. Scott",
+  "section": "a",
+  "days": "-M-W-F-",
+  "times": "9:10-10:10AM",
+  "room": "OLIN 202",
+  "tags": "E3"
+}
+
+{
+  "program": "CHE",
+  "number": "350",
+  "title": "Instrumental Analysis",
+  "credits": 4.0,
+  "faculty": "L. Demoranville",
+  "section": "a",
+  "days": "-M-W-F-",
+  "times": "11:30-12:30PM",
+  "room": "OLIN 202",
+  "tags": null
+}
+
+{
+  "program": "SPA",
+  "number": "120",
+  "title": "Beginning Spanish II",
+  "credits": 4.0,
+  "faculty": "L Aja Lopez",
+  "section": "e",
+  "days": "-M-W-F-",
+  "times": "11:30-12:30PM",
+  "room": "YOUN 245",
+  "tags": null
+}
+{
+  "program": "POL",
+  "number": "300",
+  "title": "Western Political Theory I",
+  "credits": 3.0,
+  "faculty": "C. Paskewich",
+  "section": "a",
+  "days": "-M-W-F-",
+  "times": "9:10-10:10AM",
+  "room": "OLIN 128",
+  "tags": null
+}
+
+{
+  "program": "PSY",
+  "number": "210",
+  "title": "Experimental Psychology",
+  "credits": 4.0,
+  "faculty": "M. Cope",
+  "section": "a",
+  "days": "-M-W-F-",
+  "times": "1:50-2:50PM",
+  "room": "YOUN 213",
+  "tags": "R"
+}
+
+{"program": "POL", "number": "120", "title": "Political Ideaologies", "credits": 3.0, "faculty": "M. Novak-Herzog", "section": "b", "days": "-M-W-F-", "times": "11:30-12:30PM", "room": "GRNT 409", "tags": "E2"}
+
+{"program": "PHI",
+"number": "110",
+"title": "Introduction to Philosophy",
+"credits": 3.0,
+"faculty": "A. Roche",
+"days": "-M-W-F-",
+"times": "10:20-11:20AM",
+"room": "CRNS 302",
+"tags": "None"}
+
+{"program": "BIO", "number": "340", "title": "Microbiology", "credits": 4, "faculty": "D. Skidmore", "section": "a", "days": "-M-W-F-", "times": "10:20-11:20AM", "room": "YOUN 111", "tags": "E1"}
+
+{
+  "program": "ENG",
+  "number": "335",
+  "title": "Beyond the Short Story",
+  "credits": 3.0,
+  "faculty": "A. Osanloo",
+  "section": "a",
+  "days": "-M-W-F-",
+  "times": "11:30-12:30PM",
+  "room": "GRNT 403",
+  "tags": "A"
+}
+
+{"program": "ECO", "number": "500", "title": "Senior Seminar", "credits": 3.0, "faculty": "K. Greer", "days": "-M-W-F-", "times": "3:00-4:00PM", "room": "OLIN 128", "tags": "E3"}
+
+{"program": "BIO", "number": "210", "title": "Genetics", "credits": 4.0, "faculty": "A. Hale", "section": "b", "days": "-M-W-F-", "times": "11:30-12:30PM", "room": "YOUN 102", "tags": "E3"}
+
+{"program": "ENG",
+ "number": "339",
+ "title": "Cormac McCarthy",
+ "credits": 3.0,
+ "faculty": "S. Peebles",
+ "days": "--T-R--",
+ "times": "9:40-11:10AM",
+ "room": "YOUN 111",
+ "tags": "S"}
+
+{
+  "program": "REL",
+  "number": "499",
+  "title": "Senior Seminar",
+  "credits": 3.0,
+  "faculty": "L. Jefferson",
+  "section": "a",
+  "days": "-------",
+  "times": "TBA",
+  "room": "TBA",
+  "tags": null
+}
+
+{"program": "MUS",
+ "number": "184",
+ "title": "Centre Singers",
+ "credits": 2,
+ "faculty": "J. Van Niekerk",
+ "days": "-M-W-",
+ "times": "6:00-8:00PM",
+ "room": "GRNT 114",
+ "tags": "A"}
+{
+  "program": "HIS",
+  "number": "121",
+  "title": "Cultivating the Wilderness",
+  "credits": 3.0,
+  "faculty": "T. Strauch",
+  "section": "T",
+  "days": "-M-W-F-",
+  "times": "1:50-2:50PM",
+  "room": "GRNT 402",
+  "tags": "E2, S"
+}
+
+{
+  "program": "ECO",
+  "number": "280",
+  "title": "Data Analysis & Communication",
+  "credits": 3.0,
+  "faculty": "S. Davis",
+  "days": "-M-W-F-",
+  "times": "10:20-11:20AM",
+  "room": "YOUN 110",
+  "tags": null
+}
+
+{"program": "CHE", "number": "500", "title": "Senior Seminar", "credits": 3.0, "faculty": "K. Paumi", "days": "-M-W-F-", "times": "9:10-10:10AM", "room": "YOUN 112", "tags": "YOUN"}
+
+{"program": "HIS", "number": "126", "title": "With Liberty and Justice for All", "credits": 3.0, "faculty": "S. Egge", "days": "-M-W-F-", "times": "9:10-10:10AM", "room": "OLIN", "tags": "E2, D"}
+
+{
+  "program": "HIS",
+  "number": "343",
+  "title": "The First World War in Africa",
+  "credits": 3.0,
+  "faculty": "J. Earle",
+  "section": "n/a",
+  "days": "-M-W-F-",
+  "times": "8:00-9:00AM",
+  "room": "CRNS 301",
+  "tags": null
+}
+{
+  "program": "CHE",
+  "number": "241L",
+  "title": "CHE 241 Lab",
+  "credits": 0.0,
+  "faculty": "A. Hitron",
+  "section": "a",
+  "days": "----R--",
+  "times": "8:00-11:00AM",
+  "room": "YOUN 236",
+  "tags": null
+}
+
+{
+  "program": "HIS",
+  "number": "333",
+  "title": "Chairman Mao's China",
+  "credits": 3.0,
+  "faculty": "J. Harney",
+  "section": "J",
+  "days": "-M-W-F-",
+  "times": "1:50-2:50PM",
+  "room": "OLIN 124",
+  "tags": null
+}
+
+{"program": "MAT", "number": "426", "title": "Topics in Linear Algebra", "credits": 3.0, "faculty": "J. Kilty", "section": "a", "days": "--T-R--", "times": "9:40-11:10AM", "room": "OLIN", "tags": "E3"}
+
+{
+  "program": "THR",
+  "number": "350",
+  "title": "Scenery & Costume Design",
+  "credits": 3.0,
+  "faculty": "A. Kuznetsova",
+  "section": "a",
+  "days": "-M-W-F-",
+  "times": "12:40-1:40PM",
+  "room": "GRNT 504",
+  "tags": null
+}
+
+{"program": "PSY", "number": "491", "title": "Advanced Research Topics", "credits": 3.0, "faculty": "M. Cope", "days": "-M-W-F-", "times": "8:00-9:00AM", "room": "YOUN 213", "tags": "R"}
+
+{
+  "program": "BIO",
+  "number": "360L",
+  "title": "BIO 360 Lab",
+  "credits": 0.0,
+  "faculty": "J. Shaffer",
+  "section": "a",
+  "days": "--T----",
+  "times": "12:40-3:40PM",
+  "room": "YOUN 129",
+  "tags": null
+}
+
+{
+  "program": "SPA",
+  "number": "346",
+  "title": "Modern Spanish Theatre",
+  "credits": 3.0,
+  "faculty": "I. Sprinceana",
+  "section": "a",
+  "days": "-M-W-F-",
+  "times": "3:00-4:00PM",
+  "room": "CRNS 468",
+  "tags": null
+}
+
+{"program": "PSY", "number": "111", "title": "Survey of Psychology", "credits": 3.0, "faculty": "M. Stephens", "days": "-M-W-F-", "times": "12:40-1:40PM", "room": "YOUN 231", "tags": "E3"}
+
+{
+  "program": "ECO",
+  "number": "395",
+  "title": "Empirical Analysis in Economics and Finance",
+  "credits": 3.0,
+  "faculty": "A. Eddhir",
+  "section": "a",
+  "days": "--T-R--",
+  "times": "12:40-2:10PM",
+  "room": "CRNS 301",
+  "tags": null
+}
+
+{
+  "program": "CSC",
+  "number": "370",
+  "title": "Design & Analysis of Algorithms",
+  "credits": 3.0,
+  "faculty": "W. Bailey",
+  "section": "a",
+  "days": "-M-W-F-",
+  "times": "10:20-11:20AM",
+  "room": "OLIN 211",
+  "tags": null
+}
+
+{
+  "program": "PSY",
+  "number": "305",
+  "title": "Psychology of Learning",
+  "credits": 3.0,
+  "faculty": "B. Cusato",
+  "section": "a",
+  "days": "--T-R--",
+  "times": "9:40-11:10AM",
+  "room": "YOUN 231",
+  "tags": null
+}
+
+{"program": "BIO", "number": "230", "title": "Nutrition", "credits": 3.0, "faculty": "A. Carr", "section": "a", "days": "-M-W-F-", "times": "9:10-10:10AM", "room": "YOUN 134", "tags": "A"}
+
+{
+  "program": "CHE",
+  "number": "362",
+  "title": "Quantum Chemistry and Spectroscopy",
+  "credits": 4.0,
+  "faculty": "K. Fulfer",
+  "section": "a",
+  "days": "-M-W-F-",
+  "times": "1:50-2:50PM",
+  "room": "OLIN 122",
+  "tags": null
+}
+
+{"program": "HIS",
+ "number": "302",
+ "title": "History of Rome",
+ "credits": 3.0,
+ "faculty": "J. Morrison",
+ "days": "-M-W-F-",
+ "times": "10:20-11:20AM",
+ "room": "YOUN 101",
+ "tags": null
+}
+
+{
+  "program": "ECO",
+  "number": "480",
+  "title": "Business Strategies & Market Structure",
+  "credits": 3.0,
+  "faculty": "K. Greer",
+  "section": "a",
+  "days": "--T-R--",
+  "times": "12:40-2:10PM",
+  "room": "YOUN 111",
+  "tags": null
+}
+{"program": "POL", "number": "336", "title": "Politics of Sexuality", "credits": 3.0, "faculty": "M. Novak-Herzog", "days": "--T-R--", "times": "12:40-2:10PM", "room": "GRNT 409", "tags": null}
+
+{"program": "BIO", "number": "308L", "title": "BIO 308 Lab", "credits": 0.0, "faculty": "A. Falk", "days": "----R--", "times": "12:40-3:40PM", "room": "YOUN 131", "tags": "R"}
+
+{"program": "HIS", "number": "500", "title": "Senior Seminar", "credits": 3.0, "faculty": "M. Castro", "days": "--T-R--", "times": "8:00-9:30AM", "room": "CRNS 401", "tags": "R"}
+
+{
+  "program": "CHE",
+  "number": "131",
+  "title": "General Chemistry-I",
+  "credits": 4.0,
+  "faculty": "R. Witt",
+  "section": "b",
+  "days": "-M-W-F-",
+  "times": "9:10-10:10AM",
+  "room": "YOUN 110",
+  "tags": "E3"
+}
+
