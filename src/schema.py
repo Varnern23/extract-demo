@@ -56,15 +56,15 @@ class SectionRow(BaseModel):
       raise ValueError("Credits must be between 0 and 4 inclusive")
     return v
   def validate_days(cls, v:str) -> str:
-    if not v.lower() == "-m-w-f-" or not v.lower() == "--t-th--" or not v.lower() == "-mtw-f-" or not v.lower() == "-m-wthf-" or not v.lower() == "-------" or not v == none:
+    if not v.lower() == "-m-w-f-" or not v.lower() == "--t-th--" or not v.lower() == "-mtw-f-" or not v.lower() == "-m-wthf-" or not v.lower() == "-------" or not v == None:
       raise ValueError("select an elidgible set of days")
     return v
   def validate_times(cls, v:str) -> str:
-    if not re.fullmatch(r"[0-9]{1,2}[:]{1}[0-9]{2}[-]{1}[0-9]{1,2}[:]{1}[0-9]{2}[A,P]{1}[M]{1}") or not v == none or not v == "TBA":
+    if not re.fullmatch(r"[0-9]{1,2}[:]{1}[0-9]{2}[-]{1}[0-9]{1,2}[:]{1}[0-9]{2}[A,P]{1}[M]{1}") or not v == None or not v == "TBA":
       raise ValueError("The given time slot is invalid it must be in the same format as 10:20-11:20AM")
     return v
   def validate_room(cls, v:str) -> str:
-    if not re.fullmatch(r"[A-Z]{4}[1-4]{3}") or not v == "TBA" or not v == none:
+    if not re.fullmatch(r"[A-Z]{4}[1-4]{3}") or not v == "TBA" or not v == None:
       raise ValueError("The given room is invalid")
     return v
   def validate_faculty(cls, v:str) -> str:
@@ -72,7 +72,7 @@ class SectionRow(BaseModel):
       raise ValueError("Faculty name not inputted correctly please follow the guidline example: T. Allen")
     return v
   def validate_tags(cls, v:str) -> str:
-    if not re.fullmatch(r"[E][1-3]|[A, S, D, G, R]|[A, S, D, G, R][,][A, S, D, G, R]|[E][1-3][,][A, S, D, G, R]"):
+    if not re.fullmatch(r"[E][1-3]|[A, S, D, G, R]|[A, S, D, G, R][,][A, S, D, G, R]|[E][1-3][,][A, S, D, G, R]") or not v == None:
       raise ValueError("Tags not applied properly")
     return v 
 

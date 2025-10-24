@@ -82,7 +82,7 @@ def process_file(in_path: str, out_path: str):
         writer.writerow(SectionRow.model_fields.keys())
 
         count = 0
-        limit = 150  # set a small limit for debugging; change to -1 for no limit ...
+        limit = 50  # set a small limit for debugging; change to -1 for no limit ...
 
         for line in fin:
             if not line.strip():
@@ -116,7 +116,7 @@ def process_file(in_path: str, out_path: str):
 
 if __name__ == "__main__":
     # Process training data (Part 1)
-    process_file("raw/training.txt", "out/sections_train.csv")
+    #process_file("raw/training.txt", "out/sections_train.csv")
 
     # Later, after refinement, uncomment to process the test set (Part 2)
-    # process_file("raw/testing.txt", "out/sections_test.csv")
+     process_file("raw/testing.txt", "out/sections_test.csv")
